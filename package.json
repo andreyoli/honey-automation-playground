@@ -13,6 +13,7 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
+    "@radix-ui/react-popover": "^0.1.4",
     "@stitches/react": "^1.2.6",
     "next": "12.1.0",
     "react": "17.0.2",
